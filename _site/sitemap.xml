@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://11ty.recipes/</loc>
+            <lastmod>2021-01-09T20:47:23.371Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://11ty.recipes/posts/my-first-post/</loc>
+            <lastmod>2021-01-10T03:02:35.978Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://11ty.recipes/posts/my-second-post/</loc>
+            <lastmod>2021-01-10T03:03:13.063Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://11ty.recipes/404.html</loc>
+            <lastmod>2021-01-10T03:51:58.675Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://11ty.recipes/posts/my-third-post/</loc>
+            <lastmod>2021-01-10T04:02:47.573Z</lastmod>
+        </url>
+    
+</urlset>
